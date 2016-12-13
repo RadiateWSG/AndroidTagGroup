@@ -39,7 +39,7 @@
 
     <me.gujun.android.taggroup.TagGroup
         android:id="@+id/tag_group_beauty"
-        style="@style/TagGroup.Beauty_Red"
+        style="@style/TagGroup.grey.Inverse"
         android:layout_marginTop="5dp" />
 
     <View

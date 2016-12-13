@@ -61,4 +61,21 @@
         <item name="atg_checkedBackgroundColor">#FFFFFF</item>
         <item name="atg_pressedBackgroundColor">#FF99B1</item>
     </style>
+
+    <style name="TagGroup.grey.Inverse" parent="TagGroup">
+        <item name="atg_isSelectedMode">true</item>
+        <item name="atg_borderColor">#F0F0F0</item>
+        <item name="atg_textColor">#333333</item>
+        <item name="atg_textSize">14sp</item>
+        <item name="atg_backgroundColor">#F0F0F0</item>
+        <item name="atg_inputHintColor">#80FFFFFF</item>
+        <item name="atg_inputTextColor">#DEFFFFFF</item>
+        <item name="atg_checkedBorderColor">#3d96ff</item>
+        <item name="atg_checkedTextColor">#ffffff</item>
+        <item name="atg_checkedBackgroundColor">#3d96ff</item>
+        <item name="atg_horizontalSpacing">8dp</item>
+        <item name="atg_verticalSpacing">8dp</item>
+        <item name="atg_horizontalPadding">20dp</item>
+        <item name="atg_verticalPadding">5dp</item>
+    </style>
 </resources>
